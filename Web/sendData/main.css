@@ -1,0 +1,39 @@
+body{
+    line-height: 1.8;
+}
+
+.header{
+    background-color: #4d4f5c;
+}
+.mid_1{
+    background-color:  #fff;
+}
+.boder_1{
+    border: 20px solid #4d4f5c; 
+    padding: 25px 0;
+    border-radius:  60px;
+}
+
+.btnn{
+    max-width: 100%; 
+    /* color: #000;  */
+    font-weight: 500; 
+    font-size: 2.0rem;
+    border: 20px solid #fff; 
+    border-radius:  60px;
+    padding-top: 20px;
+}
+
+.middle__text {
+    text-align: center;
+    /* line-height: 150px; */
+    font-size: 28px;
+}
+.header_text{
+    color: #fff;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 650;
+}
+
